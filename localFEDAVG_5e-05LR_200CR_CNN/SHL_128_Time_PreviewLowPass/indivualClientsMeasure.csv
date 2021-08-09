@@ -1,0 +1,9 @@
+Results on individual client models on their own tests,
+"
+accuracy:",0.8804464
+"
+weighted f1:",0.8802960627335779
+"
+micro f1:",0.8804463586360399
+"
+macro f1:",0.8885561173163828

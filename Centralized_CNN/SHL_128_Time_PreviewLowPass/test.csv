@@ -1,0 +1,6 @@
+train accuracy:,0.90360427
+test accuracy:,0.8766266
+client test accuracy:,0.875312
+weighted f1:,0.8766656170713049
+micro f1:,0.8766266227172606
+macro f1:,0.8889621560583598

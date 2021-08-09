@@ -1,0 +1,9 @@
+Results on individual client models on ALL testsets,
+"
+Client Accuracy:",0.50843316
+"
+Client weighted f1:",0.5022140851277304
+"
+Client micro f1:",0.5084331828430684
+"
+Client macro f1:",0.5039817123216915
